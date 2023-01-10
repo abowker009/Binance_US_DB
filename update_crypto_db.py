@@ -4,7 +4,7 @@ import pandas as pd
 product_list= ["BTC","ETH"]
 base_currency= ["USD"]
 
-#intervals 
+#intervals this is not used in any of the files yet
 binace_interval= "1m"
 
 
