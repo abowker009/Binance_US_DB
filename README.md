@@ -15,7 +15,7 @@ IMPORTANT: in each file dir="" I have a seperate drive for my DB which is in dri
   Now that we have the "somewhat" first dates of each pair we need to delete all of the other data we got from the API. Just run this file as it is just a script.
 
 5.Open binancefirstrowtoosql.py:  
-  Before we start make sure your csv files are in the same directory (folder) before beginning. If they are, take note of where you want to store your DB (dir = "") and then run this file. If everything works smoothly congrats! You know how the beggining dates of you of your tickers and can finally run the main file to get everything updated.
+  Before we start make sure your csv files are in the same directory (folder) before beginning. If they are, take note of where you want to store your DB (dir = "") and then run this file. If everything works smoothly congrats! You know have the beggining dates of your tickers and can finally run the main file to get everything updated.
 
 6.Before you begin this step if you are running your first trial run and made sure everything runs you can go ahead and delete EVERYTHING (VERY IMPORTANT). Now go back to step #2 and change your product_list and base_currency to the pairs you want and go through each of the steps again. Once you have head to #7.
 
